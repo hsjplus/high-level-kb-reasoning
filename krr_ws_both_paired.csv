@@ -1,105 +1,81 @@
-qID,sentence,option1,option2,answer,pairing,thanks_to
-3VCK0Q0PO5C921V8K0DKTJ4QQ4VN0Q-1,"Jeffrey's house was on fire and Lawrence put it out, later _ brought him a large gift as thanks.",Jeffrey,Lawrence,1,1,0
-3VCK0Q0PO5C921V8K0DKTJ4QQ4VN0Q-2,"Jeffrey's house was on fire and Lawrence put it out, later _ received a large gift as thanks.",Jeffrey,Lawrence,2,1,0
-3XEDXEGFX3M8UVA5NNL41RNMW9QK0I-1,"Kayla bought a tablet for Rachel for their birthday last Sunday, and _ was thanked for the thoughtful gift.",Kayla,Rachel,1,2,0
-3XEDXEGFX3M8UVA5NNL41RNMW9QK0I-2,"Kayla bought a tablet for Rachel for their birthday last Sunday, and _ thanked them for the thoughtful gift.",Kayla,Rachel,2,2,0
-3SMIWMMK613F5HG2A8IRE95O4OXUWS-1,"The members enjoyed the drinks and threw away the foods, thanks to the _ being supreme quality.",drinks,foods,1,3,1
-3SMIWMMK613F5HG2A8IRE95O4OXUWS-2,"The members enjoyed the drinks and threw away the foods, thanks to the _ being garbage quality.",drinks,foods,2,3,1
-31MCUE39BM0E3QCQ0HU8XVH8LANG3O-2,Jennifer was being taken out Sarah out to a restaurant for _ wanted to thank the other for helping them in a difficult time.,Jennifer,Sarah,2,4,0
-31MCUE39BM0E3QCQ0HU8XVH8LANG3O-1,Jennifer was taking out Sarah out to a restaurant for _ wanted to thank the other for helping them in a difficult time.,Jennifer,Sarah,1,4,0
-3UYRNV2KIVD6EFZIZ22ZEWYG2MCN8Y-2,Patricia is known to be less gracious than Lindsey because _ is just thankful for everything.,Patricia,Lindsey,2,5,0
-3UYRNV2KIVD6EFZIZ22ZEWYG2MCN8Y-1,Patricia is known to be less gracious than Lindsey because _ just isn't thankful for anything.,Patricia,Lindsey,1,5,0
-3NFWQRSHVGS9J2SJKCVAY465OE3GF0-1,Eric was more thankful for the gift than Robert although the gift _ received was less expensive.,Eric,Robert,1,6,0
-3NFWQRSHVGS9J2SJKCVAY465OE3GF0-2,Eric was more thankful for the gift than Robert because the gift _ received was less expensive.,Eric,Robert,2,6,0
-3GITHABACYJGYBYMZNHYC7X5N2FN2A-1,The plant was growing and thriving thanks to Benjamin but not Donald because _ had a green thumb.,Benjamin,Donald,1,7,1
-3GITHABACYJGYBYMZNHYC7X5N2FN2A-2,The plant was growing and thriving thanks to Benjamin but not Donald because _ had a black thumb.,Benjamin,Donald,2,7,1
-3S1L4CQSFZJ89BFGYC302IV3R00AFT-2,"The car's tires were unable to navigate the driveway of the property, thanks to the _ being too flat.",driveway,tires,2,8,1
-3S1L4CQSFZJ89BFGYC302IV3R00AFT-1,"The car's tires were unable to navigate the driveway of the property, thanks to the _ being too muddy.",driveway,tires,1,8,1
-37J05LC5AXH7IV5HHE9NFJ7SB6ZJD5-2,"Emily shared their dessert with Kayla after they both had dinner, and _ thanked them profusely.",Emily,Kayla,2,9,0
-37J05LC5AXH7IV5HHE9NFJ7SB6ZJD5-1,"Emily shared their dessert with Kayla after they both had dinner, and _ was thanked profusely.",Emily,Kayla,1,9,0
-3IKMEYR0LWTFQ5DJ2APIKFG1YPC2KR-1,"Megan got a big kiss of thanks from Mary, because _ had gotten them some flowers.",Megan,Mary,1,10,0
-3IKMEYR0LWTFQ5DJ2APIKFG1YPC2KR-2,"Megan got a big kiss of thanks from Mary, because _ had received some flowers.",Megan,Mary,2,10,0
-3YLPJ8OXX8BVDJRD57NV3OL1EDFX41-2,"The animal chewed the bone and ignored the toy, thanks to the _ being a lackluster plaything.",bone,toy,2,11,1
-3YLPJ8OXX8BVDJRD57NV3OL1EDFX41-1,"The animal chewed the bone and ignored the toy, thanks to the _ being a favored plaything.",bone,toy,1,11,1
-3APP19WN71CY6K01ZLG6C05K7C36GD-2,Craig thanked Jason for helping them pay their monthly car bill because _ was rich.,Craig,Jason,2,12,0
-3APP19WN71CY6K01ZLG6C05K7C36GD-1,Craig thanked Jason for helping them pay their monthly car bill because _ was poor.,Craig,Jason,1,12,0
-3LVTFB9DE5GRG2JLEUU4I5MB7FZQGI-1,"Emily  was quickly gaining on Monica in the race, thanks to _ 's decision to start speeding up halfway through.",Emily,Monica,1,13,1
-3LVTFB9DE5GRG2JLEUU4I5MB7FZQGI-2,"Emily  was quickly gaining on Monica in the race, thanks to _ 's decision to start slowing down halfway through.",Emily,Monica,2,13,1
-32PT7WK7DMDWXH3SETH0ZCQ3FDK3DS-2,"Ryan had tremendous leg strength thanks to squats, but Hunter was very weak. _ hated working out at the gym.",Ryan,Hunter,2,14,1
-32PT7WK7DMDWXH3SETH0ZCQ3FDK3DS-1,"Ryan had tremendous leg strength thanks to squats, but Hunter was very weak. _ loved working out at the gym.",Ryan,Hunter,1,14,1
-3LCXHSGDLVKK3T1EK15L50480E5ES3-1,"Joseph helped to cure Kevin's disease, so _ was thanked for being a good doctor.",Joseph,Kevin,1,15,0
-3LCXHSGDLVKK3T1EK15L50480E5ES3-2,"Joseph helped to cure Kevin's disease, so _ gave thanks for having a good doctor.",Joseph,Kevin,2,15,0
-3IJ95K7NDZQL7U50I0EN69FEQREGN4-2,"Because Monica gave a gift to Carrie, _ wrote a thank you letter for the gift.",Monica,Carrie,2,16,0
-3IJ95K7NDZQL7U50I0EN69FEQREGN4-1,"Because Monica gave a gift to Carrie, _ was written a thank you letter for the gift.",Monica,Carrie,1,16,0
-31D0ZWOD0AX2II1JBW8F7DKQWE4A04-2,"Lawrence thanked Craig profusely for the assistance and always considered him as his personal savior from that day onwards, because only _ helped him.",Lawrence,Craig,2,17,0
-31D0ZWOD0AX2II1JBW8F7DKQWE4A04-1,"Lawrence thanked Craig profusely for the assistance and always considered him as his personal savior from that day onwards, because _ paid his debt with his help.",Lawrence,Craig,1,17,0
-31KPKEKW4CRMVH5I18KBUMS54VT0B2-2,Jane was late for a court case at 4:30 so she rode the subway thankfully the _ was delayed.,subway,case,2,18,0
-31KPKEKW4CRMVH5I18KBUMS54VT0B2-1,Jane was late for a court case at 4:30 so she rode the subway thankfully the _ was fast.,subway,case,1,18,0
-3NZ1E5QA6ZZ6WZSCEGENJJ0NV5UB5H-2,"Elena was full of anxiety when talking with Cynthia, thanks to _ having a tendency to fight when in public.",Elena,Cynthia,2,19,1
-3NZ1E5QA6ZZ6WZSCEGENJJ0NV5UB5H-1,"Elena was full of anxiety when talking with Cynthia, thanks to _ having a tendency to panic when in public.",Elena,Cynthia,1,19,1
-3VO4XFFP15K8N98KLRQACS9I8BG7QU-1,"It was stinking in Elena's room after Betty left, thanks to the dead fish _ didn't know about under the sink.",Elena,Betty,1,20,1
-3VO4XFFP15K8N98KLRQACS9I8BG7QU-2,"It was stinking in Elena's room after Betty left, thanks to the dead fish _ secretly put under the sink.",Elena,Betty,2,20,1
-3UL5XDRDNCHNU1U5B4UDSHAMNZ958C-1,"Kyle received a fantastic education from his teachers thanks in no small part to Ian, from whose efforts _ received proper guidance.",Kyle,Ian,1,21,1
-3UL5XDRDNCHNU1U5B4UDSHAMNZ958C-2,"Kyle received a fantastic education from his teachers thanks in no small part to Ian, for whose benefit _ provided proper guidance.",Kyle,Ian,2,21,1
-34KYK9TV2R6721QNQCRVCUAF9QSBSB-1,Adam thanked Dennis for their life after _ fell in the water and was saved by them after almost drowning.,Adam,Dennis,1,22,0
-34KYK9TV2R6721QNQCRVCUAF9QSBSB-2,Adam thanked Dennis for their life after _ jumped in the water and saved them after almost drowning.,Adam,Dennis,2,22,0
-37VUR2VJ6C35CBI6BRK6JBHXRBEC19-2,".I like a thank you note more than a phone call, because the _ seems polite.",phone call,thank you note,2,23,0
-37VUR2VJ6C35CBI6BRK6JBHXRBEC19-1,"I like a thank you note more than a phone call, because the _ seems rude.",phone call,thank you note,1,23,0
-3WGCNLZJKF60NEPDRP3HBJB6MARD1Y-1,"It took Christine minutes to do what took Katrina hours, thanks to _ being an expert at the task.",Christine,Katrina,1,24,1
-3WGCNLZJKF60NEPDRP3HBJB6MARD1Y-2,"It took Christine minutes to do what took Katrina hours, thanks to _ being a rookie at the task.",Christine,Katrina,2,24,1
-33KGGVH24WVTF9T12NGTXO26QK2X1A-2,"Kyle shopped for a while and found a few items to bring up to Eric at the Goodwill counter, then _ gave thanks and saw the next customer.",Kyle,Eric,2,25,0
-33KGGVH24WVTF9T12NGTXO26QK2X1A-1,"Kyle shopped for a while and found a few items to bring up to Eric at the Goodwill counter, then _ gave thanks and left.",Kyle,Eric,1,25,0
-3S8A4GJRD31HOHQWOGFSC18UP8R6VV-1,"Elena got more presents at Christmas than Samantha, because _ always sent a thank-you card to the gifters.",Elena,Samantha,1,26,0
-3S8A4GJRD31HOHQWOGFSC18UP8R6VV-2,"Elena got more presents at Christmas than Samantha, because _ never sent a thank-you card to the gifters.",Elena,Samantha,2,26,0
-3WRBLBQ2GR63S9EMXW0P3ZVTPQ0G0Y-1,"Ian had a rewarding career thanks to Nick, so _ was sure to show how much they appreciated it.",Ian,Nick,1,27,1
-3WRBLBQ2GR63S9EMXW0P3ZVTPQ0G0Y-2,"Ian had a rewarding career thanks to Nick, so _ was bound to hear how much they appreciated it.",Ian,Nick,2,27,1
-334ZEL5JX8T6FKE3EF8HACYM4QOOSE-1,"It was the first time Laura lived away from home, so Megan threw a housewarming party; _ wrote her a thank you note.",Laura,Megan,1,28,0
-334ZEL5JX8T6FKE3EF8HACYM4QOOSE-2,"It was the first time Laura lived away from home, so Megan threw a housewarming party; _ received her thank you note.",Laura,Megan,2,28,0
-35JDMRECC472JZTG53Z4OOXXJRAEGI-2,"Nelson was too small to lift the box, so Samuel helped carry it and _ was thanked.",Nelson,Samuel,2,29,0
-35JDMRECC472JZTG53Z4OOXXJRAEGI-1,"Nelson was too small to lift the box, so Samuel helped carry it and _ thanked them.",Nelson,Samuel,1,29,0
-3NOEP8XAU40H2CDW3RFJ6MWW599PXI-1,"During the fire evacuation that was occurring at the office building, Maria thanked Christine when _ escaped the building.",Maria,Christine,1,30,0
-3NOEP8XAU40H2CDW3RFJ6MWW599PXI-2,"During the fire evacuation that was occurring at the office building, Maria thanked Christine when _ extinguished the building.",Maria,Christine,2,30,0
-3HFWPF5AKBXHTVLHVHOPM90B9LH3SV-2,Angela was more thankful for the gift than Erin was because _ had high expectations.,Angela,Erin,2,31,0
-3HFWPF5AKBXHTVLHVHOPM90B9LH3SV-1,Angela was more thankful for the gift than Erin was because _ had low expectations.,Angela,Erin,1,31,0
-368IUKXGA564JXT0246T69JC3MIP6P-2,Tanya is thankful for Laura's generosity because _ bought her a skirt to wear to the party.,Tanya,Laura,2,32,0
-368IUKXGA564JXT0246T69JC3MIP6P-1,Tanya is thankful for Laura's generosity because _ needed a skirt to wear to the party.,Tanya,Laura,1,32,0
-3VQTAXTYN5Z2B3HYZFYVJTGCKO1BUS-1,Amy never got around to writing a thank you note for the graduation gift Megan's got her because _ inconsiderate.,Amy,Megan,1,33,0
-3VQTAXTYN5Z2B3HYZFYVJTGCKO1BUS-2,Amy never got around to writing a thank you note for the graduation gift Megan's got her because _ considerate.,Amy,Megan,2,33,0
-32CAVSKPCENM4G0ZDKT6LJFU3PV1UU-1,"Kayla cooked sticky white rice for Jennifer, and _ was thanked for making such delicate rice.",Kayla,Jennifer,1,34,0
-32CAVSKPCENM4G0ZDKT6LJFU3PV1UU-2,"Kayla cooked sticky white rice for Jennifer, and _ thanked them for making such delicate rice.",Kayla,Jennifer,2,34,0
-36GJS3V78X4PO4EF32MVD2YXHBTGJS-2,Craig wrote a thank you note to Dennis because _ sent him a thoughtful gift to him.,Craig,Dennis,2,35,0
-36GJS3V78X4PO4EF32MVD2YXHBTGJS-1,Craig wrote a thank you note to Dennis because _ received a thoughtful gift from him.,Craig,Dennis,1,35,0
-3ZUE82NE0CFUQNM11EJM6RP70JA8F8-1,"Justin braced themself as Benjamin put the needle through the ear for the piercing, then _ gave thanks and left.",Justin,Benjamin,1,36,0
-3ZUE82NE0CFUQNM11EJM6RP70JA8F8-2,"Justin braced themself as Benjamin put the needle through the ear for the piercing, then _ gave thanks and saw the next customer.",Justin,Benjamin,2,36,0
-3Y7LTZE0YV0YT1KE5TEY5BNFAI7UZI-2,"Rachel wrote a formal letter to Emily to thank them for the job, because _ preferred people who were thoughtful.",Rachel,Emily,2,37,0
-3Y7LTZE0YV0YT1KE5TEY5BNFAI7UZI-1,"Rachel wrote a formal letter to Emily to thank them for the job, because _ preferred to be thoughtful.",Rachel,Emily,1,37,0
-3ZTE0JGGCEQBEEQ0XV6H396WP6TCOP-2,"The wool coat Brett gave to Joseph fit like a glove, so _ accepted the coat with a thank you.",Brett,Joseph,2,38,0
-3ZTE0JGGCEQBEEQ0XV6H396WP6TCOP-1,"The wool coat Brett gave to Joseph fit like a glove, so _ accepted a hug as a thank you.",Brett,Joseph,1,38,0
-3AFT28WXLHGHL6B793E36AS0WJHIOW-1,"Tanya loved the washer that Mary bought for her, so _ wrote a thank you note.",Tanya,Mary,1,39,0
-3AFT28WXLHGHL6B793E36AS0WJHIOW-2,"Tanya loved the washer that Mary bought for her, so _ received a thank you note.",Tanya,Mary,2,39,0
-3NCN4N1H1IVPGDXP2EM95YOICRJBN9-2,"Mary scrubbed the tile floor but thankfully didn't need to clean the toilet, because the _ was clean.",floor,toilet,2,40,0
-3NCN4N1H1IVPGDXP2EM95YOICRJBN9-1,"Mary scrubbed the tile floor but thankfully didn't need to clean the toilet, because the _ was filthy.",floor,toilet,1,40,0
-3RZS0FBRWK8TZE21CVJWS9BMZBPCP6-1,"Joseph gave wise guidance to Hunter, and thanks to _ and their help, they ended up having a really good life.",Joseph,Hunter,1,41,1
-3RZS0FBRWK8TZE21CVJWS9BMZBPCP6-2,"Joseph gave wise guidance to Hunter, and thanks to _ accepting their help, they ended up having a really good life.",Joseph,Hunter,2,41,1
-3SSN80MU8CMGRLGGQZABA5AX6E1XKC-2,Kayla was much more grateful for the gifts than Angela because _  didn't send out thank you notes.,Kayla,Angela,2,42,0
-3SSN80MU8CMGRLGGQZABA5AX6E1XKC-1,Kayla was much more grateful for the gifts than Angela because _ sent out thank you notes.,Kayla,Angela,1,42,0
-3GITHABACYJGYBYMZNHYC7X5NZFN24-1,"Brian loaned their phone to Neil because theirs broke, and _ was thanked for being so generous.",Brian,Neil,1,43,0
-3GITHABACYJGYBYMZNHYC7X5NZFN24-2,"Brian loaned their phone to Neil because theirs broke, and _ thanked them for being so generous.",Brian,Neil,2,43,0
-362E9TQF2HOEZ4V21MPV93VPBJQGI0-1,"Victoria dyed the hair of Jennifer a bright red, and _ was thanked for doing such a great job.",Victoria,Jennifer,1,44,0
-362E9TQF2HOEZ4V21MPV93VPBJQGI0-2,"Victoria dyed the hair of Jennifer a bright red, and _ thanked them for doing such a great job.",Victoria,Jennifer,2,44,0
-3IQ9O0AYW8DXYYGF5K020KYMU03IT2-2,"Natalie sat in the therapist's office and thanked Christine for the observation, because _ was a good therapist.",Natalie,Christine,2,45,0
-3IQ9O0AYW8DXYYGF5K020KYMU03IT2-1,"Natalie sat in the therapist's office and thanked Christine for the observation, because _ was a grateful patient.",Natalie,Christine,1,45,0
-3ZVPAMTJWN1RS3YLR9J4NVWGYKEGRJ-1,"After being treated for post traumatic shock, Christine thanked Jennifer, because _ had needed the help.",Christine,Jennifer,1,46,0
-3ZVPAMTJWN1RS3YLR9J4NVWGYKEGRJ-2,"After being treated for post traumatic shock, Christine thanked Jennifer, because _ had provided the help.",Christine,Jennifer,2,46,0
-362E9TQF2J4TTTU9LK1V11JY622IGW-1,"Jeff was angry that insurance cost so much money. They said he'd be grateful in an accident, but the _ was still too expensive.",insurance,accident,1,48,0
-362E9TQF2J4TTTU9LK1V11JY622IGW-2,"Jeff was angry that insurance cost so much money. They said he'd be grateful in an accident, but the _ was just too damaging.",insurance,accident,2,48,0
-379OL9DBSUS04JM6BWHOV8RZR3SY93-1,"Amy was grateful to Patricia for giving her some nausea medication, because _ felt really sick.",Amy,Patricia,1,49,0
-379OL9DBSUS04JM6BWHOV8RZR3SY93-2,"Amy was grateful to Patricia for giving her some nausea medication, while _ felt worried about her.",Amy,Patricia,2,49,0
-3BS6ERDL95LAOPPHHTRYYDQVI7WD60-1,"The booze caused his aging in the past, but the yoga made him young again, he was grateful to have given up the _ .",booze,yoga,1,50,0
-3BS6ERDL95LAOPPHHTRYYDQVI7WD60-2,"The booze caused his aging in the past, but the yoga made him young again, he was grateful to have taken up the _ .",booze,yoga,2,50,0
-3FCO4VKOZ4BJQ6IFC0VAIBK4KO87EP-1,Jeffrey sat at the bar and was served beer by Leslie until 2:00 AM when when the bar closed; _ was grateful for the beer.,Jeffrey,Leslie,1,51,0
-3FCO4VKOZ4BJQ6IFC0VAIBK4KO87EP-2,Jeffrey sat at the bar and was served beer by Leslie until 2:00 AM when when the bar closed; _ was grateful for the tip.,Jeffrey,Leslie,2,51,0
-3NKW03WTLM5NDO9LTZYM488Z121QWR-1,"After slipping on the floor, Joel gratefully accepted Nelson's hand, as _ needed help getting up.",Joel,Nelson,1,52,0
-3NKW03WTLM5NDO9LTZYM488Z121QWR-2,"After slipping on the floor, Joel gratefully accepted Nelson's hand, as _ provided help getting up.",Joel,Nelson,2,52,0
-3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-1,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much more.,Lawrence,Benjamin,1,53,0
-3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-2,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much less.,Lawrence,Benjamin,2,53,0
+qID,sentence,option1,option2,answer,pairing
+3VCK0Q0PO5C921V8K0DKTJ4QQ4VN0Q-1,"Jeffrey's house was on fire and Lawrence put it out, later _ brought him a large gift as thanks.",Jeffrey,Lawrence,1,1
+3VCK0Q0PO5C921V8K0DKTJ4QQ4VN0Q-2,"Jeffrey's house was on fire and Lawrence put it out, later _ received a large gift as thanks.",Jeffrey,Lawrence,2,1
+3XEDXEGFX3M8UVA5NNL41RNMW9QK0I-1,"Kayla bought a tablet for Rachel for their birthday last Sunday, and _ was thanked for the thoughtful gift.",Kayla,Rachel,1,2
+3XEDXEGFX3M8UVA5NNL41RNMW9QK0I-2,"Kayla bought a tablet for Rachel for their birthday last Sunday, and _ thanked them for the thoughtful gift.",Kayla,Rachel,2,2
+31MCUE39BM0E3QCQ0HU8XVH8LANG3O-2,Jennifer was being taken out Sarah out to a restaurant for _ wanted to thank the other for helping them in a difficult time.,Jennifer,Sarah,2,4
+31MCUE39BM0E3QCQ0HU8XVH8LANG3O-1,Jennifer was taking out Sarah out to a restaurant for _ wanted to thank the other for helping them in a difficult time.,Jennifer,Sarah,1,4
+3UYRNV2KIVD6EFZIZ22ZEWYG2MCN8Y-2,Patricia is known to be less gracious than Lindsey because _ is just thankful for everything.,Patricia,Lindsey,2,5
+3UYRNV2KIVD6EFZIZ22ZEWYG2MCN8Y-1,Patricia is known to be less gracious than Lindsey because _ just isn't thankful for anything.,Patricia,Lindsey,1,5
+3NFWQRSHVGS9J2SJKCVAY465OE3GF0-1,Eric was more thankful for the gift than Robert although the gift _ received was less expensive.,Eric,Robert,1,6
+3NFWQRSHVGS9J2SJKCVAY465OE3GF0-2,Eric was more thankful for the gift than Robert because the gift _ received was less expensive.,Eric,Robert,2,6
+37J05LC5AXH7IV5HHE9NFJ7SB6ZJD5-2,"Emily shared their dessert with Kayla after they both had dinner, and _ thanked them profusely.",Emily,Kayla,2,9
+37J05LC5AXH7IV5HHE9NFJ7SB6ZJD5-1,"Emily shared their dessert with Kayla after they both had dinner, and _ was thanked profusely.",Emily,Kayla,1,9
+3IKMEYR0LWTFQ5DJ2APIKFG1YPC2KR-1,"Megan got a big kiss of thanks from Mary, because _ had gotten them some flowers.",Megan,Mary,1,10
+3IKMEYR0LWTFQ5DJ2APIKFG1YPC2KR-2,"Megan got a big kiss of thanks from Mary, because _ had received some flowers.",Megan,Mary,2,10
+3APP19WN71CY6K01ZLG6C05K7C36GD-2,Craig thanked Jason for helping them pay their monthly car bill because _ was rich.,Craig,Jason,2,12
+3APP19WN71CY6K01ZLG6C05K7C36GD-1,Craig thanked Jason for helping them pay their monthly car bill because _ was poor.,Craig,Jason,1,12
+3LCXHSGDLVKK3T1EK15L50480E5ES3-1,"Joseph helped to cure Kevin's disease, so _ was thanked for being a good doctor.",Joseph,Kevin,1,15
+3LCXHSGDLVKK3T1EK15L50480E5ES3-2,"Joseph helped to cure Kevin's disease, so _ gave thanks for having a good doctor.",Joseph,Kevin,2,15
+3IJ95K7NDZQL7U50I0EN69FEQREGN4-2,"Because Monica gave a gift to Carrie, _ wrote a thank you letter for the gift.",Monica,Carrie,2,16
+3IJ95K7NDZQL7U50I0EN69FEQREGN4-1,"Because Monica gave a gift to Carrie, _ was written a thank you letter for the gift.",Monica,Carrie,1,16
+31D0ZWOD0AX2II1JBW8F7DKQWE4A04-2,"Lawrence thanked Craig profusely for the assistance and always considered him as his personal savior from that day onwards, because only _ helped him.",Lawrence,Craig,2,17
+31D0ZWOD0AX2II1JBW8F7DKQWE4A04-1,"Lawrence thanked Craig profusely for the assistance and always considered him as his personal savior from that day onwards, because _ paid his debt with his help.",Lawrence,Craig,1,17
+31KPKEKW4CRMVH5I18KBUMS54VT0B2-2,Jane was late for a court case at 4:30 so she rode the subway thankfully the _ was delayed.,subway,case,2,18
+31KPKEKW4CRMVH5I18KBUMS54VT0B2-1,Jane was late for a court case at 4:30 so she rode the subway thankfully the _ was fast.,subway,case,1,18
+34KYK9TV2R6721QNQCRVCUAF9QSBSB-1,Adam thanked Dennis for their life after _ fell in the water and was saved by them after almost drowning.,Adam,Dennis,1,22
+34KYK9TV2R6721QNQCRVCUAF9QSBSB-2,Adam thanked Dennis for their life after _ jumped in the water and saved them after almost drowning.,Adam,Dennis,2,22
+37VUR2VJ6C35CBI6BRK6JBHXRBEC19-2,".I like a thank you note more than a phone call, because the _ seems polite.",phone call,thank you note,2,23
+37VUR2VJ6C35CBI6BRK6JBHXRBEC19-1,"I like a thank you note more than a phone call, because the _ seems rude.",phone call,thank you note,1,23
+33KGGVH24WVTF9T12NGTXO26QK2X1A-2,"Kyle shopped for a while and found a few items to bring up to Eric at the Goodwill counter, then _ gave thanks and saw the next customer.",Kyle,Eric,2,25
+33KGGVH24WVTF9T12NGTXO26QK2X1A-1,"Kyle shopped for a while and found a few items to bring up to Eric at the Goodwill counter, then _ gave thanks and left.",Kyle,Eric,1,25
+3S8A4GJRD31HOHQWOGFSC18UP8R6VV-1,"Elena got more presents at Christmas than Samantha, because _ always sent a thank-you card to the gifters.",Elena,Samantha,1,26
+3S8A4GJRD31HOHQWOGFSC18UP8R6VV-2,"Elena got more presents at Christmas than Samantha, because _ never sent a thank-you card to the gifters.",Elena,Samantha,2,26
+334ZEL5JX8T6FKE3EF8HACYM4QOOSE-1,"It was the first time Laura lived away from home, so Megan threw a housewarming party; _ wrote her a thank you note.",Laura,Megan,1,28
+334ZEL5JX8T6FKE3EF8HACYM4QOOSE-2,"It was the first time Laura lived away from home, so Megan threw a housewarming party; _ received her thank you note.",Laura,Megan,2,28
+35JDMRECC472JZTG53Z4OOXXJRAEGI-2,"Nelson was too small to lift the box, so Samuel helped carry it and _ was thanked.",Nelson,Samuel,2,29
+35JDMRECC472JZTG53Z4OOXXJRAEGI-1,"Nelson was too small to lift the box, so Samuel helped carry it and _ thanked them.",Nelson,Samuel,1,29
+3NOEP8XAU40H2CDW3RFJ6MWW599PXI-1,"During the fire evacuation that was occurring at the office building, Maria thanked Christine when _ escaped the building.",Maria,Christine,1,30
+3NOEP8XAU40H2CDW3RFJ6MWW599PXI-2,"During the fire evacuation that was occurring at the office building, Maria thanked Christine when _ extinguished the building.",Maria,Christine,2,30
+3HFWPF5AKBXHTVLHVHOPM90B9LH3SV-2,Angela was more thankful for the gift than Erin was because _ had high expectations.,Angela,Erin,2,31
+3HFWPF5AKBXHTVLHVHOPM90B9LH3SV-1,Angela was more thankful for the gift than Erin was because _ had low expectations.,Angela,Erin,1,31
+368IUKXGA564JXT0246T69JC3MIP6P-2,Tanya is thankful for Laura's generosity because _ bought her a skirt to wear to the party.,Tanya,Laura,2,32
+368IUKXGA564JXT0246T69JC3MIP6P-1,Tanya is thankful for Laura's generosity because _ needed a skirt to wear to the party.,Tanya,Laura,1,32
+3VQTAXTYN5Z2B3HYZFYVJTGCKO1BUS-1,Amy never got around to writing a thank you note for the graduation gift Megan's got her because _ inconsiderate.,Amy,Megan,1,33
+3VQTAXTYN5Z2B3HYZFYVJTGCKO1BUS-2,Amy never got around to writing a thank you note for the graduation gift Megan's got her because _ considerate.,Amy,Megan,2,33
+32CAVSKPCENM4G0ZDKT6LJFU3PV1UU-1,"Kayla cooked sticky white rice for Jennifer, and _ was thanked for making such delicate rice.",Kayla,Jennifer,1,34
+32CAVSKPCENM4G0ZDKT6LJFU3PV1UU-2,"Kayla cooked sticky white rice for Jennifer, and _ thanked them for making such delicate rice.",Kayla,Jennifer,2,34
+36GJS3V78X4PO4EF32MVD2YXHBTGJS-2,Craig wrote a thank you note to Dennis because _ sent him a thoughtful gift to him.,Craig,Dennis,2,35
+36GJS3V78X4PO4EF32MVD2YXHBTGJS-1,Craig wrote a thank you note to Dennis because _ received a thoughtful gift from him.,Craig,Dennis,1,35
+3ZUE82NE0CFUQNM11EJM6RP70JA8F8-1,"Justin braced themself as Benjamin put the needle through the ear for the piercing, then _ gave thanks and left.",Justin,Benjamin,1,36
+3ZUE82NE0CFUQNM11EJM6RP70JA8F8-2,"Justin braced themself as Benjamin put the needle through the ear for the piercing, then _ gave thanks and saw the next customer.",Justin,Benjamin,2,36
+3Y7LTZE0YV0YT1KE5TEY5BNFAI7UZI-2,"Rachel wrote a formal letter to Emily to thank them for the job, because _ preferred people who were thoughtful.",Rachel,Emily,2,37
+3Y7LTZE0YV0YT1KE5TEY5BNFAI7UZI-1,"Rachel wrote a formal letter to Emily to thank them for the job, because _ preferred to be thoughtful.",Rachel,Emily,1,37
+3ZTE0JGGCEQBEEQ0XV6H396WP6TCOP-2,"The wool coat Brett gave to Joseph fit like a glove, so _ accepted the coat with a thank you.",Brett,Joseph,2,38
+3ZTE0JGGCEQBEEQ0XV6H396WP6TCOP-1,"The wool coat Brett gave to Joseph fit like a glove, so _ accepted a hug as a thank you.",Brett,Joseph,1,38
+3AFT28WXLHGHL6B793E36AS0WJHIOW-1,"Tanya loved the washer that Mary bought for her, so _ wrote a thank you note.",Tanya,Mary,1,39
+3AFT28WXLHGHL6B793E36AS0WJHIOW-2,"Tanya loved the washer that Mary bought for her, so _ received a thank you note.",Tanya,Mary,2,39
+3NCN4N1H1IVPGDXP2EM95YOICRJBN9-2,"Mary scrubbed the tile floor but thankfully didn't need to clean the toilet, because the _ was clean.",floor,toilet,2,40
+3NCN4N1H1IVPGDXP2EM95YOICRJBN9-1,"Mary scrubbed the tile floor but thankfully didn't need to clean the toilet, because the _ was filthy.",floor,toilet,1,40
+3SSN80MU8CMGRLGGQZABA5AX6E1XKC-2,Kayla was much more grateful for the gifts than Angela because _  didn't send out thank you notes.,Kayla,Angela,2,42
+3SSN80MU8CMGRLGGQZABA5AX6E1XKC-1,Kayla was much more grateful for the gifts than Angela because _ sent out thank you notes.,Kayla,Angela,1,42
+3GITHABACYJGYBYMZNHYC7X5NZFN24-1,"Brian loaned their phone to Neil because theirs broke, and _ was thanked for being so generous.",Brian,Neil,1,43
+3GITHABACYJGYBYMZNHYC7X5NZFN24-2,"Brian loaned their phone to Neil because theirs broke, and _ thanked them for being so generous.",Brian,Neil,2,43
+362E9TQF2HOEZ4V21MPV93VPBJQGI0-1,"Victoria dyed the hair of Jennifer a bright red, and _ was thanked for doing such a great job.",Victoria,Jennifer,1,44
+362E9TQF2HOEZ4V21MPV93VPBJQGI0-2,"Victoria dyed the hair of Jennifer a bright red, and _ thanked them for doing such a great job.",Victoria,Jennifer,2,44
+3IQ9O0AYW8DXYYGF5K020KYMU03IT2-2,"Natalie sat in the therapist's office and thanked Christine for the observation, because _ was a good therapist.",Natalie,Christine,2,45
+3IQ9O0AYW8DXYYGF5K020KYMU03IT2-1,"Natalie sat in the therapist's office and thanked Christine for the observation, because _ was a grateful patient.",Natalie,Christine,1,45
+3ZVPAMTJWN1RS3YLR9J4NVWGYKEGRJ-1,"After being treated for post traumatic shock, Christine thanked Jennifer, because _ had needed the help.",Christine,Jennifer,1,46
+3ZVPAMTJWN1RS3YLR9J4NVWGYKEGRJ-2,"After being treated for post traumatic shock, Christine thanked Jennifer, because _ had provided the help.",Christine,Jennifer,2,46
+362E9TQF2J4TTTU9LK1V11JY622IGW-1,"Jeff was angry that insurance cost so much money. They said he'd be grateful in an accident, but the _ was still too expensive.",insurance,accident,1,48
+362E9TQF2J4TTTU9LK1V11JY622IGW-2,"Jeff was angry that insurance cost so much money. They said he'd be grateful in an accident, but the _ was just too damaging.",insurance,accident,2,48
+379OL9DBSUS04JM6BWHOV8RZR3SY93-1,"Amy was grateful to Patricia for giving her some nausea medication, because _ felt really sick.",Amy,Patricia,1,49
+379OL9DBSUS04JM6BWHOV8RZR3SY93-2,"Amy was grateful to Patricia for giving her some nausea medication, while _ felt worried about her.",Amy,Patricia,2,49
+3BS6ERDL95LAOPPHHTRYYDQVI7WD60-1,"The booze caused his aging in the past, but the yoga made him young again, he was grateful to have given up the _ .",booze,yoga,1,50
+3BS6ERDL95LAOPPHHTRYYDQVI7WD60-2,"The booze caused his aging in the past, but the yoga made him young again, he was grateful to have taken up the _ .",booze,yoga,2,50
+3FCO4VKOZ4BJQ6IFC0VAIBK4KO87EP-1,Jeffrey sat at the bar and was served beer by Leslie until 2:00 AM when when the bar closed; _ was grateful for the beer.,Jeffrey,Leslie,1,51
+3FCO4VKOZ4BJQ6IFC0VAIBK4KO87EP-2,Jeffrey sat at the bar and was served beer by Leslie until 2:00 AM when when the bar closed; _ was grateful for the tip.,Jeffrey,Leslie,2,51
+3NKW03WTLM5NDO9LTZYM488Z121QWR-1,"After slipping on the floor, Joel gratefully accepted Nelson's hand, as _ needed help getting up.",Joel,Nelson,1,52
+3NKW03WTLM5NDO9LTZYM488Z121QWR-2,"After slipping on the floor, Joel gratefully accepted Nelson's hand, as _ provided help getting up.",Joel,Nelson,2,52
+3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-1,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much more.,Lawrence,Benjamin,1,53
+3X2LT8FDHWGH7K9P75HMIHNZ2BB8WJ-2,Lawrence was more grateful for their gift than Benjamin was for theirs because _ had gotten much less.,Lawrence,Benjamin,2,53
