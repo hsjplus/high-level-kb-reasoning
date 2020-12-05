@@ -32,8 +32,7 @@ numpy
 pandas
 xlrd
 ```
-Here is the related link about clyngor: https://pypi.org/project/clyngor/
-
+Here is the related link about clyngor: https://pypi.org/project/clyngor/ <br>
 To run clyngor in python, the binary file of Clingo is needed which can be downloaded here (in our implementation, we used the version of 5.4.0): https://github.com/potassco/clingo/releases <br>
 For example, if you use windows, you can simply download "clingo-5.4.0-win64.zip" file in the Assets section from the clingo releases website above. Then, the next step is to unzip the zip file, and "clingo.exe"(the binary file) file will be found in the unzipped directory. Please make sure that "clyngor.CLINGO_BIN_PATH" in the line 9 of main.py MUST BE the location of the file in your own local directory:
 ```
