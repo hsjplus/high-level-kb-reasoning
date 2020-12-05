@@ -1,4 +1,4 @@
-% The rules below are written by Arpit Sharma. We only made one modification and one addition noted in comments below.
+% The rules below are written by Arpit Sharma. We only made one modification and some additions noted in comments below.
 % The paper related to these rules: 
 % Arpit Sharma. Using answer set programming for commonsense reasoning in the winograd schema challenge. arXiv:1907.11112[cs.AI], 2019.
 
